@@ -2,14 +2,17 @@
 <style>
 	p.yellow{
 	background-color: yellow;
-	border-Width: 1px solid green;
+	border-Width: 1px ;
+	border-color:green;
 }
  p.red{
 	background-color: red;
-	border-Width: 1px solid black;
+	border-Width: 1px ;
+	border-color: black;
 }
  p.green{
 	background-color: green;
-	border-Width:1px solid yellow;
+	border-Width:1px;
+    border-color:green;
 }
 </style>
