@@ -1,15 +1,15 @@
 /*  your css code here. If applicable */
 <style>
-#yellow{
-	background-color= yellow;
+	p.yellow{
+	background-color: yellow;
 	border-Width: 1px solid green;
 }
-#red{
-	background-color= red;
+ p.red{
+	background-color: red;
 	border-Width: 1px solid black;
 }
-#green{
-	background-color= green;
+ p.green{
+	background-color: green;
 	border-Width:1px solid yellow;
 }
 </style>
