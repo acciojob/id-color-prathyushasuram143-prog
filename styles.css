@@ -2,17 +2,17 @@
 <style>
 	#yellow{
 	background-color: yellow;
-	border-Width: 1px ;
+	border-width: 1px ;
 	border-color:green;
 }
  #red{
 	background-color: red;
-	border-Width: 1px ;
+	border-width: 1px ;
 	border-color: black;
 }
  #green{
 	background-color: green;
-	border-Width:1px;
+	border-width:1px;
     border-color:green;
 }
 </style>
